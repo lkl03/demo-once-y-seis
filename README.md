@@ -1,2 +1,7 @@
-# demo-once-y-seis
-Demo web para Once y seis — diseñada por eterlab.
+# Once y seis
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
